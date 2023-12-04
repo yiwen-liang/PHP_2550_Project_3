@@ -1,5 +1,7 @@
 ## PHP2550 Project 3: Simulation Studies
 
+### Evaluating the Performance of a Prediction Model in Different Population
+
 ${\color{gray}Posted: 12/03/2023}$
 
 This is the 3rd project assignment of PHP2550 Practical Data Analysis course at Brown University (Fall 23).
