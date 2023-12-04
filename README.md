@@ -6,7 +6,7 @@ ${\color{gray}Posted: 12/03/2023}$
 
 This is the 3rd project assignment of PHP2550 Practical Data Analysis course at Brown University (Fall 23).
 
-In this project, our goal is to evaluate the performance of the model constructed on the Framingham dataset in a distinct target population underlying the NHANES data.	The submitted report and the code used for this analysis will be available here. The dataset is not available to the public.
+In this project, our goal is to evaluate the performance of the model constructed on the Framingham dataset in a distinct target population underlying the NHANES data.	The submitted report and the code used for this analysis will be available here. The Framingham data is available in package `riskCommunicator`, and NHANES data in 2017 is available in package `nhanesA`.
 
 ## Documents Available
 
